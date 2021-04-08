@@ -1,0 +1,23 @@
+
+
+First part of the code (brain decoding and fingerprinting with SDI): 
+
+
+- run script LDA_SDI/LDA_SDI_FullPipeline.m
+
+- allows to perform ANOVA, LDA classifications for brain decoding and fingerprinting, with the choice on SDI values or FC node strengths.
+
+-takes data directly from the folder Data
+
+
+
+Second part of the code (PLS relating SDI and cognitive scores):
+
+
+- this part requires the PLS implementation developed at the MIP:Lab - EPFL ( https://github.com/danizoeller/myPLS ). Download the myPLS code from the GitHub repository and copy the downloaded folder 'myPLS-master' to Code_For_Publication/PLS_SDI
+
+- run script PLS_SDI/PLS_SDI_FullPipeline.m  
+
+- allows to perform PLS analysis for SDI values and cognitive scores, with the choice on SDI values from one of the 8 tasks, and the pie charts of Figure 4c
+
+- takes data directly from the folder Data
