@@ -15,7 +15,7 @@ The SDI quantifies the degree of structure-function dependency for each brain re
 
 ## Code implementation
 
-LDI_SDI is a collection of **Matlab** scripts.
+LDA_SDI is a collection of **Matlab** scripts.
 
 
 # Documentation
