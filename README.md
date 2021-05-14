@@ -20,6 +20,6 @@ LDA_SDI is a collection of **Matlab** scripts.
 
 # Documentation
 
-The documentation includes [Instructions to run the code](https://github.com/agriffa/LDA_SDI/blob/main/Instructions.txt) as well as [Software requirements](https://github.com/agriffa/LDA_SDI/blob/main/Requirements.txt).
+The documentation includes and [Installation guide](https://github.com/agriffa/LDA_SDI/blob/main/Installation_guide.txt), [Instructions to run the code](https://github.com/agriffa/LDA_SDI/blob/main/Instructions.txt), as well as [Software requirements](https://github.com/agriffa/LDA_SDI/blob/main/Requirements.txt).
 
 For questions, requesting assistance, suggesting enhancements or new ideas as well as for reporting bugs, please open an [issue](https://github.com/agriffa/LDA_SDI/issues).
