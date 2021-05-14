@@ -11,7 +11,7 @@ The SDI quantifies the degree of structure-function dependency for each brain re
 
 > **Decoupling of brain function from structure reveals regional behavioral specialization in humans**  
 > *Maria Giulia Preti, Dimitri Van De Ville*  
-> Nature Communications 10, article number 4747 (2019)
+> Nature Communications 10, article number 4747 (2019); https://doi.org/10.1038/s41467-019-12765-7
 
 ## Code implementation
 
