@@ -20,6 +20,6 @@ LDI_SDI is a collection of **Matlab** scripts.
 
 # Documentation
 
-The documentation includes [Instructions to run the code](https://github.com/agriffa/LDA_SDI/blob/main/Instructions.txt) as well as [Software requirements](https://github.com/daducci/AMICO/wiki/Home).
+The documentation includes [Instructions to run the code](https://github.com/agriffa/LDA_SDI/blob/main/Instructions.txt) as well as [Software requirements](https://github.com/agriffa/LDA_SDI/blob/main/Requirements.txt).
 
 For questions, requesting assistance, suggesting enhancements or new ideas as well as for reporting bugs, please open an [issue](https://github.com/agriffa/LDA_SDI/issues).
