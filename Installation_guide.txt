@@ -1,5 +1,4 @@
-
-- Download or git clone LDA_SDI
+- Download or git clone LDA_SDI (installation time: n/a)
 
 - Add the LDA_SDI folder and subfolders to your Matlab path
 
