@@ -1,0 +1,6 @@
+
+- Download or git clone LDA_SDI
+
+- Add the LDA_SDI folder and subfolders to your Matlab path
+
+- Run the analyses in Matlab by calling the scripts .../LDA_SDI/LDA_SDI/LDA_SDI_FullPipeline.m and .../LDA_SDI/PLS_SDI/PLS_SDI_FullPipeline.m (for more details, see the Instructions.txt file)
